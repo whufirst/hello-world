@@ -12,6 +12,9 @@ git push origin new-branch-name
 
 how to push a new file from local terminal to Github?
 the first time you need to execute: git push --set-upstream origin
-the second time with command: 
+the second time with command:
+1. git add filename
+2. git commit -m filename
+3. git push
 
 
