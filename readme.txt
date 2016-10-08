@@ -7,3 +7,11 @@ how to create a file in the new branch and then push it to the remote Github?
 
 the first time you need the command:
 
+git push --set-upstream origin branch-name.
+
+the second time with command:
+
+1. git add filename
+2. git commit -m filename
+3. git push
+
