@@ -15,3 +15,4 @@ the second time with command:
 2. git commit -m filename
 3. git push
 
+try the method.
