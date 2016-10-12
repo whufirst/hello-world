@@ -20,4 +20,4 @@ II.
 how to update content from the remote Github to the local repo?
 git pull
 
-try the method.
+try the method. Are all these working?
