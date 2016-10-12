@@ -20,4 +20,12 @@ II.
 how to update content from the remote Github to the local repo?
 git pull
 
-try the method. Are all these working?
+III.
+how to check the status of repo in the remote Github repo?
+git status
+
+or
+git fetch && git checkout master
+
+try the method. Are all these working? Yes.
+
