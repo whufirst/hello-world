@@ -25,6 +25,7 @@ git push origin branch
 II.
 how to update content from the remote Github to the local repo?
 git pull
+git pull git@github.com:whufirst/java.git current-branch
 
 III.
 how to check the status of repo in the remote Github repo?
