@@ -17,8 +17,10 @@ the second time with command:
 2. git commit -m filename
 3. git push
 [2].
+git add filename
+git commit -m filename
 git push origin branch
-// this command will upload all the changes to the remote Github repo branch.
+// these commands will upload all the changes to the remote Github repo branch.
 
 II.
 how to update content from the remote Github to the local repo?
@@ -32,9 +34,13 @@ or
 git fetch && git checkout master
 git fetch && git checkout current-branch ( common description )
 
-IIII.
+IV.
 how to switch among all branches?
 git checkout branch-existed
+
+V.
+how to merge the current branch A from the other one B?
+git merge B
 
 try the method. Are all these working? Yes.
 
