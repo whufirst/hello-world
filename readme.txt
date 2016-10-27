@@ -44,4 +44,4 @@ how to merge the current branch A from the other one B?
 git merge B
 
 try the methods. Are all these working? Yes and gorgeous. Local not push.
-the beatles
+the beatles -- help!
