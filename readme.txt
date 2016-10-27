@@ -24,14 +24,14 @@ git push origin branch		// will work when (A) not executed
 II.
 how to update content from the remote Github to the local repo?
 git pull
-git pull <url> current branch		// will work when (A) not executed
+git pull <url> current-branch		// will work when (A) not executed
 e.g. "git pull git@github.com:whufirst/java.git current-branch"
 
 III.
-how to check the status of repo in the remote Github repo?
+how to check the status of repo in the local Github repo?
 git status
 
-or
+how to check the status of repo in the remote Github repo?
 git fetch && git checkout master
 git fetch && git checkout current-branch ( common description )
 
@@ -44,4 +44,3 @@ how to merge the current branch A from the other one B?
 git merge B
 
 try the methods. Are all these working? Yes and gorgeous. Local not push.
-the beatles -- help!
