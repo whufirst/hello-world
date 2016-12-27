@@ -17,7 +17,7 @@ the second time with command:
 2. git commit -m filename
 3. git push		// work when (A) executed
 [2].	how to push the existed file that has been changed to the remote Github repo?
-#git add filename
+git add filename		// this step is still needed
 git commit -m filename
 git push origin branch		// will work when (A) not executed
 
