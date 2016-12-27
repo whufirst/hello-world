@@ -16,24 +16,24 @@ the second time with command:
 1. git add filename
 2. git commit -m filename
 3. git push		// work when (A) executed
-[2].
-git add filename
+[2].	how to push the existed file that has been changed to the remote Github repo?
+#git add filename
 git commit -m filename
 git push origin branch		// will work when (A) not executed
 
 II.
-how to update content from the remote Github to the local repo?
-git pull
-git pull <url> current-branch		// will work when (A) not executed
-e.g. "git pull git@github.com:whufirst/java.git current-branch"
-
-III.
 how to check the status of repo in the local Github repo?
 git status
 
 how to check the status of repo in the remote Github repo?
 git fetch && git checkout master
 git fetch && git checkout current-branch ( common description )
+
+III.
+how to update content from the remote Github to the local repo?
+git pull
+git pull <url> current-branch		// will work when (A) not executed
+e.g. "git pull git@github.com:whufirst/java.git current-branch"
 
 IV.
 how to switch among all branches?
