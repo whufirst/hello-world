@@ -1,4 +1,8 @@
-I. 
+I.
+
+howt to download files from my github account?(must be my remote Github account)
+git clone https://github.com/whufirst/sharedLibsDemo.git
+
 (I). how to create a branch from local terminal and then push it to remote Github repo branch?
 
 1. git checkout -b newbranch
