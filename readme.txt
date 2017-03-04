@@ -1,5 +1,8 @@
 I.
 
+when git have the problem of "Enter passphrase for key '/Users/whufirst/.ssh/id_rsa': ", you can try the method of "set up git" on the webpage of "https://help.github.com/articles/set-up-git/"
+
+
 howt to download files from my github account?(must be my remote Github account)
 git clone https://github.com/whufirst/sharedLibsDemo.git
 
